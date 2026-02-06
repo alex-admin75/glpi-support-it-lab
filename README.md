@@ -45,8 +45,14 @@ GLPI-ITSM-Projet/
 ├── 04-cas-pratiques/
 │   ├── ticket-perte-internet.md
 │   └── ticket-poste-non-demarre.md
+|
 ├── 05-screenshots/
-│
+│   ├── 01-dashboard-glpi.png
+|   ├── 02-profils-utilisateurs
+|   ├── 03-utilisateurs
+|   ├── 04-creation-ticket
+|   ├── 05-ticket-en-cours
+|   └── 06-ticket-resolu
 └── README.md
 ```
 
