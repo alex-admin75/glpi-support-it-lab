@@ -12,7 +12,7 @@ et le travail des équipes de support **niveau 1 et 2**.
 ### Connexion initiale
 - URL : 
 ```arduino 
-http://<IP_SERVEUR>/glpi
+http://<IP_SERVEUR>/
 ```
 - Identifiants par défaut :
   - Utilisateur : `glpi`

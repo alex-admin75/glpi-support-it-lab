@@ -19,7 +19,7 @@ La création d’un ticket permet à un utilisateur :
 ### Connexion utilisateur
 - URL :
 ```arduino
-http://<IP_SERVEUR>/glpi
+http://<IP_SERVEUR>/
 ```
 - Connexion avec un compte **profil Utilisateur**
 

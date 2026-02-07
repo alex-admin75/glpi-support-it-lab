@@ -98,7 +98,7 @@ a2dissite 000-default.conf
 #### Installation via l’interface Web
 1. Ouvrir un navigateur :
 ```arduino
-http://<IP_SERVEUR>/glpi
+http://<IP_SERVEUR>/
 ```
 1. Choisir la langue
 1. Accepter la licence
@@ -143,7 +143,7 @@ openssl x509 -in /etc/ssl/certs/autosign.pem -text -noout
 
 #### Accès par défaut
 ```arduino
-http://<IP_SERVEUR>/glpi
+http://<IP_SERVEUR>/
 ```
     
 Compte administrateur par défaut :  
